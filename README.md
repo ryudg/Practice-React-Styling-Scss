@@ -1,5 +1,3 @@
-# React Component Styling
-
 # Sass
 
 - Sass(Syntactically Awesome Style Sheets)는 CSS pre-processor 로서, 복잡한 작업을 쉽게 할 수 있게 해주고, 코드의 재활용성을 높여줄 뿐 만 아니라, 코드의 가독성을 높여주어 유지보수를 쉽게해준다.
